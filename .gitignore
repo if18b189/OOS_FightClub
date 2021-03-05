@@ -1,0 +1,7 @@
+# ignores everything
+*
+
+# selecting files
+!fighters.cpp
+!fighters.h
+!fighters_function.cpp
